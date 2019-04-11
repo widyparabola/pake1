@@ -1,93 +1,815 @@
 #EXTM3U
-#EXTINF:-1,TRANSTV
-http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,TRANS7
-http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,INDOSIAR
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,MNC
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,INEWS TV
-http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,TV ONE
-http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,ANTV
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1,GLOBAL TV
-http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://edge.okezone.com/live/globaltv.m3u8
+
 #EXTINF:-1,NET HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1,RTV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,JTV
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,METROTV HD 1
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1,BERITASATU
-http://edge.linknetott.swiftserve.com/channelgroup1/cg1production/ch360/index.m3u8
-#EXTINF:-1,KOMPAS TV
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,BERITA SATU
-https://iptv.prakashdivy.id/vidio/beritasatu/index.m3u8
+
+#EXTINF:-1,SCTV
+http://210.210.155.35/session/1dee2d1a-b94a-11e8-90c7-c81f66f89318/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1,SCTV 2
+http://rr2.dens.tv/s/s03/index2.m3u8
+
+#EXTINF:-1,MNC TV
+http://202.80.222.171/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,INDOSIAR
+http://210.210.155.35/session/8f4a368e-b94a-11e8-8e6f-c81f66f89318/qwr9ew/s/s04/02.m3u8
+
+#EXTINF:1,INDOSIAR_GOJEk
+http://202.80.222.169:80/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:1,INDOSIAR_GOJEk 2
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+
+#EXTINF:1,SALURAN FILM INDONESIA 
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
+
+#EXTINF:1,MY CINEMA
+http://rr3.dens.tv/s/s31/index2.m3u8
+
+#EXTINF:1,RCTI 1
+http://edge.okezone.com/live/rctioke.m3u8
+
+#EXTINF:1,RCTI 2
+http://202.80.222.171/000001/2/ch14041511532707866226/1024.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:1,RCTI 3
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:1,RCTI 4
+http://id6.indostreamingtv.com/live/tv6/index.m3u8
+
+#EXTINF:1,MADURA TV
+http://videostream.indostreamserver.com:1935/madufm/live/playlist.m3u8
+
+#EXTINF:-1,TV ONE
+http://rr2.dens.tv/s/s02/index1.m3u8
+
+#EXTINF:-1,ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1,METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1874059343_b1128000_sleng.m3u8
+
 #EXTINF:-1,CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1,SlauranFilmIndonesia
-http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/",TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/",TV2
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/",TV3
-http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
-#EXTINF:-1,ANIMAX ID
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-#EXTINF:-1,MY KIDS
-http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
-#EXTINF:-1,BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1,CELESTIAL MOVIES ID
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
-#EXTINF:-1,THRILL TV ID
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1,MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+http://live.cnnindonesia.com/livecnn/smil:mcnn.smil/chunklist_w799552868_b192000_sleng.m3u8
+
+#EXTINF:-1,CNN Indonesia 2
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,TRANS7 1
+http://rr2.dens.tv/s/s06/index1.m3u8
+
+#EXTINF:-1,TRANSTV
+http://210.210.155.35/session/526b6d3a-a7bd-11e8-b22f-c81f66f89318/qwr9ew/s/s05/02.m3u8
+
+#EXTINF:-1,FIRST MOVIE INDO
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:-1,NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+
+#EXTINF:-1,JTV
+http://122.248.32.234:1935/ch2/myStream/live.m3u8
+
+#EXTINF:-1,EFARINA BATAK
+http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
+
+#EXTINF:-1,Malio Channel
+http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,Klik Musik
+http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
+#EXTINF:-1,DANGDUT CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
+
+#EXTINF:-1,K+
+http://210.210.155.35/uq2663/h/h08/index1.m3u8
+
+#EXTINF:-1,K Drama
+http://rr2.dens.tv/s/s42/index2.m3u8
+
+#EXTINF:-1,RTV
+http://210.210.155.35/session/c0eef5f4-a7f6-11e8-8197-b82a72d63267/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1,KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+
+#EXTINF:-1,EFARINA TV
+http://43.240.226.40:1935/AppLiveEfarinaTV/efarinatv_360p/index.m3u8
+
+#EXTINF:-1,BERITA SATU NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1,TVRI
+http://210.210.155.35/session/a7e82f28-a7bd-11e8-a194-c81f66f89318/qwr9ew/s/s11/02.m3u8
+
+#EXTINF:-1,TVRI SPORT
+http://rr2.dens.tv/s/s48/index2.m3u8
+
+#EXTINF:-1,TVRI KALTIM
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+
+#EXTINF:-1,MUSIK INDO
+http://stream1.ninmedia.tv/live/xmedia-smitv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,DMI
+http://stream1.ninmedia.tv/live/xmedia-dmitv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,CELESTIAL MOVIE
+http://210.210.155.35/session/1f19243a-a7be-11e8-8e98-c81f66f89318/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1,CELESTIAL MOVIE 2
+http://rr2.dens.tv/s/s33/index2.m3u8
+
+#EXTINF:-1,FOX ACTION MOVIES
+http://103.242.13.90:5555/udp/239.4.1.72:10000
+
+#EXTINF:-1,FOX PREMIER
+http://103.242.13.90:5555/udp/239.4.1.84:10000
+
+#EXTINF:-1,THRILL
+http://210.210.155.35/session/efca7e94-a7be-11e8-881b-c81f66f89318/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1,THRILL 2
+http://210.210.155.35/session/efca7e94-a7be-11e8-881b-c81f66f89318/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-1,Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index1.m3u8
+
+#EXTINF:-1,Home Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+
+#EXTINF:-1,Foodie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
+
 #EXTINF:-1,KIX
-http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
-#EXTINF:-1,TVRI SPORTS
-http://210.210.155.35/qwr9ew/s/s48/index.m3u8
-#EXTINF:-1,SONY TEN1 HD
-http://163.172.211.93:8081/Ten/1/index.m3u8
-#EXTINF:-1,SONY TEN2 HD
-http://163.172.218.205:8081/2Ten/2/index.m3u8
-#EXTINF:-1,SONY TEN3 HD
-http://163.172.86.57:3135/Ten/3/index.m3u8
-#EXTINF:-1,SONY SIX HD
-http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
-#EXTINF:-1,beIN Sports 1 HD
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/2.m3u8
-#EXTINF:-1,beIN Sports 2 HD
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/3.m3u8
-#EXTINF:-1,beIN Sports 3 HD
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/4.m3u8
-#EXTINF:-1,beIN Sport 4 HD
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/5.m3u8
-#EXTINF:-1,beIN Sports 5 HD
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/6.m3u8
-#EXTINF:-1,beIN Sports 6 HD
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/7.m3u8
-#EXTINF:-1,beIN Sports 7 HD
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/8.m3u8
-#EXTINF:-1,beIN Sports 8 HD
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/9.m3u8
-#EXTINF:-1,beIN Sports 9 HD
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/10.m3u8
-#EXTINF:-1,OSN AD Sports 1 HD
-#EXTINF:-1,Dubai Sports (AR)
-http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/13.m3u8
-RAW Paste Data
+http://210.210.155.35/uq2663/h/h07/index1.m3u8
+
+#EXTINF:-1,SBS in
+http://210.210.155.35/uq2663/h/h28/index1.m3u8
+
+#EXTINF:-1,BBS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+#EXTINF:-1, ADI TV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1,DUTA TV
+http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1,DAAI TV
+http://210.210.155.35/session/4b1fe496-a7f6-11e8-ba87-b82a72d63267/qwr9ew/s/s13/02.m3u8
+
+#EXTINF:-1, ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:-1, INSPIRA TV
+http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
+
+#EXTINF:-1,DW CHANNEL
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1,CGTN CHANNEL
+http://rr2.dens.tv/s/s20/index2.m3u8
+
+#EXTINF:-1,BLOOMBERG
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1,TV1 Malay
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,TV2 Malay
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,1NEWS Malay
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1,MUZIK AKTIF Malay
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1,PARLIMEN TV Malay
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1,RTM TV OKEY Malay
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,ASTRO AWANI Malay
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+
+#EXTINF:-1,DA VINCI
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+
+#EXTINF:-1,TVRI SPORTS HD
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+
+#EXTINF:-1,ADSPORT1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
+
+#EXTINF:-1,ADSPORT2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
+
+#EXTINF:-1,REAL MADRID FC
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?iptv.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,MOTOR SPORT
+http://45.58.62.92:8084
+
+#EXTINF:-1,fox sport 2
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+
+#EXTINF:-1,FOX SPORT 3
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+
+#EXTINF:-1,Tivibu Spor
+http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,FB Sport TR
+https://stream-08.dc3.dailymotion.com/dm/3/x21oo10/live-1.m3u8
+
+#EXTINF:-1,BJK Sport TR
+https://stream-04.dc3.dailymotion.com/dm/3/x31omum/live-1.m3u8
+
+#EXTINF:-1,GS Sport TR
+https://stream-06.dc3.dailymotion.com/dm/3/xne3bf/live-1.m3u8
+
+#EXTINF:-1,SENTANA SPORT
+http://ott-cdn.ucom.am/s82/03.m3u8
+
+#EXTINF:-1,SENTANA SPORT
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1, PPTV HD
+http://119.59.125.74/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a&.m3u8
+
+#EXTINF:-1,RUSSIAN SPORT
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/150/index.m3u8
+
+#EXTINF:-1,Smash Sports
+http://144.76.182.50:25461/live/smash/smash/4.ts
+
+#EXTINF:-1,True Sport HD3
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1,True Sport HD1
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
+
+#EXTINF:-1,True Sport HD2
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
+
+#EXTINF:-1,FIGHTIME
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w1111174434_b2596000.m3u8
+
+#EXTINF:-1,Cinefil WOWOW
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1,Family Gekijyo家庭剧场
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+
+#EXTINF:-1,History历史频道
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+
+#EXTINF:-1,Japan Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+#EXTINF:-1,NHK
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1,NTV News24
+http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1,日本朝日台
+http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
+
+#EXTINF:-1,日本映画 Nihon Eiga TV
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
+
+#EXTINF:-1,卫星剧场Eisei Gekijo
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+
+#EXTINF:-1,Rajawali TV
+rtp://@239.1.2.69:8388
+
+#EXTINF:-1,Lejel Home Shopping
+rtp://@239.1.2.3:7992
+
+#EXTINF:-1,Kompas TV
+rtp://@239.1.2.197:9156
+
+#EXTINF:-1,Berita Satu
+rtp://@239.1.2.183:9072
+
+#EXTINF:-1,Jak TV
+rtp://@239.1.2.107:8616
+
+#EXTINF:-1,TV Edukasi
+rtp://@239.1.2.39:8208
+
+#EXTINF:-1,NET TV
+rtp://@239.1.2.119:8688
+
+#EXTINF:-1,Khazanah
+rtp://@239.1.1.230:9356
+
+#EXTINF:-1,National Geographic
+rtp://@239.1.2.169:8988
+
+#EXTINF:-1,National Geographic Wild
+rtp://@239.1.2.35:8184
+
+#EXTINF:-1,National Geographic Wild (HD)
+rtp://@239.1.1.207:9216
+
+#EXTINF:-1,Crime & Investigations
+rtp://@239.1.2.59:8328
+
+#EXTINF:-1,fyi
+rtp://@239.1.2.61:8340
+
+#EXTINF:-1,History Channel
+rtp://@239.1.2.57:8316
+
+#EXTINF:-1,Eat and Go
+rtp://@239.1.1.229:9350
+
+#EXTINF:-1,Fashion One
+rtp://@239.1.2.127:8736
+
+#EXTINF:-1,E! Entertainment
+rtp://@239.1.2.145:8844
+
+#EXTINF:-1,Fashion TV
+rtp://@239.1.2.79:8448
+
+#EXTINF:-1,Nat Geo People
+rtp://@239.1.2.67:8376
+
+#EXTINF:-1,T MUSIC
+rtp://@239.1.2.163:8952
+
+#EXTINF:-1,PRAMBORS
+rtp://@239.1.1.227:9336
+
+#EXTINF:-1,MTV Live
+rtp://@239.1.2.5:8004
+
+#EXTINF:-1,Channel [V]
+rtp://@239.1.2.173:9012
+
+#EXTINF:-1,C Music
+rtp://@239.1.1.77:8436
+
+#EXTINF:-1,Showcase
+rtp://@239.1.1.225:9326
+
+#EXTINF:-1,Tahan Tawa
+rtp://@239.1.1.231:9362
+
+#EXTINF:-1,Dunia Lain
+rtp://@239.1.1.149:8868
+
+#EXTINF:-1,K-Plus
+rtp://@239.1.1.242:9426
+
+#EXTINF:-1,Hi Indo
+rtp://@239.1.1.240:9348
+
+#EXTINF:-1,Animax
+rtp://@239.1.2.157:8916
+
+#EXTINF:-1,DIVA
+rtp://@239.1.2.51:8280
+
+#EXTINF:-1,Star World
+rtp://@239.1.2.171:9000
+
+#EXTINF:-1,Star World (HD)
+rtp://@239.1.1.209:9228
+
+#EXTINF:-1,Lifetime
+rtp://@239.1.2.181:9260
+
+#EXTINF:-1,KIX
+rtp://@239.1.2.81:8460
+
+#EXTINF:-1,Comedy Central
+rtp://@239.1.2.9:8028
+
+#EXTINF:-1,Channel M
+rtp://@239.1.2.135:8784
+
+#EXTINF:-1,KBS World
+rtp://@239.1.2.167:8976
+
+#EXTINF:-1,Aniplus
+rtp://@239.1.2.117:8676
+
+#EXTINF:-1,NHK World Premium
+rtp://@239.1.2.165:8964
+
+#EXTINF:-1,WakuWaku Japan
+rtp://@239.1.2.75:8424
+
+#EXTINF:-1,Star Chinese
+rtp://@239.1.2.153:8892
+
+#EXTINF:-1,Pelangi
+rtp://@239.1.1.110:8634
+
+#EXTINF:-1,Z Hiburan
+rtp://@239.1.1.109:8628
+
+#EXTINF:-1,SyFy
+rtp://@239.1.2.49:8268
+
+#EXTINF:-1,Universal
+rtp://@239.1.2.85:8484
+
+#EXTINF:-1,AXN
+rtp://@239.1.2.137:8796
+
+#EXTINF:-1,Sony Channel
+rtp://@239.1.2.141:8820
+
+#EXTINF:-1,FOX
+rtp://@239.1.2.43:8232
+
+#EXTINF:-1,FOX Crime
+rtp://@239.1.2.161:8940
+
+#EXTINF:-1,FX
+rtp://@239.1.2.1:7980
+
+#EXTINF:-1,Bioskop Indonesia
+rtp://@239.1.1.226:9332
+
+#EXTINF:-1,Flik
+rtp://@239.1.1.71:8400
+
+#EXTINF:-1,RED by HBO
+rtp://@239.1.1.114:8658
+
+#EXTINF:-1,RED by HBO (HD)
+rtp://@239.1.1.133:8772
+
+#EXTINF:-1,GALAXY
+rtp://@239.1.1.184:8778
+
+#EXTINF:-1,HBO
+rtp://@239.1.2.95:8544
+
+#EXTINF:-1,HBO Signature
+rtp://@239.1.2.93:8532
+
+#EXTINF:-1,Cinemax
+rtp://@239.1.2.87:8496
+
+#EXTINF:-1,HBO Hits
+rtp://@239.1.2.91:8520
+
+#EXTINF:-1,HBO Hits (HD)
+rtp://@239.1.1.215:9264
+
+#EXTINF:-1,HBO Family
+rtp://@239.1.2.89:8508
+
+#EXTINF:-1,AMC Channel
+rtp://@239.1.2.111:8640
+
+#EXTINF:-1,FOX Movies Premium
+rtp://@239.1.2.11:8040
+
+#EXTINF:-1,FOX Movies Premium (HD)
+rtp://@239.1.1.211:9240
+
+#EXTINF:-1,FOX Family
+rtp://@239.1.2.175:9024
+
+#EXTINF:-1,FOX Family (HD)
+rtp://@239.1.1.237:9396
+
+#EXTINF:-1,FOX Action Movies
+rtp://@239.1.2.125:8724
+
+#EXTINF:-1,Thrill
+rtp://@239.1.2.83:8472
+
+#EXTINF:-1,Celestial
+rtp://@239.1.2.97:8556
+
+#EXTINF:-1,Star Chinese Movies
+rtp://@239.1.2.131:8760
+
+#EXTINF:-1,Star Chinese Movie Legend
+rtp://@239.1.2.151:8880
+
+#EXTINF:-1,Z Bioskop
+rtp://@239.1.2.129:8748
+
+#EXTINF:-1,Cinema World
+rtp://@239.1.2.189:9108
+
+#EXTINF:-1,HBO (HD)
+rtp://@239.1.1.203:9192
+
+#EXTINF:-1,Fight Sport
+rtp://@239.1.2.99:8568
+
+#EXTINF:-1,FOX Sports 1
+rtp://@239.1.2.103:8592
+
+#EXTINF:-1,FOX Sports 2
+rtp://@239.1.2.101:8580
+
+#EXTINF:-1,FOX Sports 3
+rtp://@239.1.2.53:8292
+
+#EXTINF:-1,FOX Sport News
+rtp://@239.1.2.55:8304
+
+#EXTINF:-1,CNN International
+rtp://@239.1.2.105:8604
+
+#EXTINF:-1,Bloomberg
+rtp://@239.1.2.199:9168
+
+#EXTINF:-1,CNBC Asia
+rtp://@239.1.2.155:8904
+
+#EXTINF:-1,Channel News Asia
+rtp://@239.1.2.65:8364
+
+#EXTINF:-1,Al-Jazeera
+rtp://@239.1.2.195:9144
+
+#EXTINF:-1,France 24
+rtp://@239.1.2.191:9120
+
+#EXTINF:-1,DW TV
+rtp://@239.1.2.187:9096
+
+#EXTINF:-1,Australian Plus
+rtp://@239.1.2.33:8172
+
+#EXTINF:-1,Arirang
+rtp://@239.1.2.147:8856
+
+#EXTINF:-1,Al-Quran Al-Karim
+rtp://@239.1.2.185:9084
+
+#EXTINF:-1,Euronews
+rtp://@0.0.0.0
+
+#EXTINF:-1,Dunia Anak
+rtp://@239.1.2.7:8016
+
+#EXTINF:-1,BabyFirst (Trial)
+rtp://@239.1.1.157:8916
+
+#EXTINF:-1,Disney Channel
+rtp://@239.1.2.45:8244
+
+#EXTINF:-1,Disney Channel (HD)
+rtp://@239.1.1.201:9180
+
+#EXTINF:-1,KDisney Junior
+rtp://@239.1.2.47:8256
+
+#EXTINF:-1,DaVinci Learning
+rtp://@239.1.2.177:9250
+
+#EXTINF:-1,Nickelodeon
+rtp://@239.1.2.41:8220
+
+#EXTINF:-1,Nick Jr.
+rtp://@239.1.2.159:8928
+
+#EXTINF:-1,Cartoon Network
+rtp://@239.1.2.123:8712
+
+#EXTINF:0,beIN Al Safwa HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8819
+
+#EXTINF:0,beIN Al Yawm HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8820
+
+#EXTINF:0,beIN Animal Planet HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8812
+
+#EXTINF:0,beINMovies 1 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/983
+
+#EXTINF:0,beINMovies 2 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/982
+
+#EXTINF:0,beINMovies 3 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/981
+
+#EXTINF:0,beINMovies 4 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/980
+
+#EXTINF:0,beINSport 1 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/995
+
+#EXTINF:0,beINSport 1 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/979
+
+#EXTINF:0,beINSport 1 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6963
+
+#EXTINF:0,beINSport 10 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/986
+
+#EXTINF:0,beINSport 10 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/970
+
+#EXTINF:0,beINSport 10 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6954
+
+#EXTINF:0,beINSport 11 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/985
+
+#EXTINF:0,beINSport 11 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/969
+
+#EXTINF:0,beINSport 12 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/984
+
+#EXTINF:0,beINSport 12 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/968
+
+#EXTINF:0,beINSport 2 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/994
+
+#EXTINF:0,beINSport 2 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/978
+
+#EXTINF:0,beINSport 2 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6962
+
+#EXTINF:0,beINSport 3 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/993
+
+#EXTINF:0,beINSport 3 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/977
+
+#EXTINF:0,beINSport 3 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6961
+
+#EXTINF:0,beINSport 4 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/992
+
+#EXTINF:0,beINSport 4 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/976
+
+#EXTINF:0,beINSport 4 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6960
+
+#EXTINF:0,beINSport 5 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/991
+
+#EXTINF:0,beINSport 5 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/975
+
+#EXTINF:0,beINSport 5 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6959
+
+#EXTINF:0,beINSport 6 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/990
+
+#EXTINF:0,beINSport 6 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/974
+
+#EXTINF:0,beINSport 6 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6958
+
+#EXTINF:0,beINSport 7 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/989
+
+#EXTINF:0,beINSport 7 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/973
+
+#EXTINF:0,beINSport 7 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6957
+
+#EXTINF:0,beINSport 8 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/988
+
+#EXTINF:0,beINSport 8 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/972
+
+#EXTINF:0,beINSport 8 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6956
+
+#EXTINF:0,beINSport 9 ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/987
+
+#EXTINF:0,beINSport 9 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/971
+
+#EXTINF:0,beINSport 9 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/6955
+
+#EXTINF:0,beINSport AlKass 1 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/967
+
+#EXTINF:0,beINSport AlKass 2 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/966
+
+#EXTINF:0,beINSport AlKass 3 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/965
+
+#EXTINF:0,beINSport AlKass 4 HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/964
+
+#EXTINF:0,beINSport News HD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/998
+
+#EXTINF:0,bein Sport 1 SD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9543
+
+#EXTINF:0,bein Sport 1 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9544
+
+#EXTINF:0,beINSports 1 FHD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8776
+
+#EXTINF:0,bein Sport 2 SD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9541
+
+#EXTINF:0,bein Sport 2 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9542
+
+#EXTINF:0,beINSports 2 FHD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8775
+
+#EXTINF:0,bein Sport 3 SD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9539
+
+#EXTINF:0,bein Sport 3 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9540
+
+#EXTINF:0,beINSports 3 FHD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8774
+
+#EXTINF:0,bein Sport 4 SD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9537
+
+#EXTINF:0,bein Sport 4 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9538
+
+#EXTINF:0,beINSports 4 FHD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8773
+
+#EXTINF:0,bein Sport 5 SD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9535
+
+#EXTINF:0,bein Sport 5 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9536
+
+#EXTINF:0,beINSports 5 FHD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8772
+
+#EXTINF:0,bein Sport 6 SD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9533
+
+#EXTINF:0,bein Sport 6 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9534
+
+#EXTINF:0,beINSports 6 FHD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8771
+
+#EXTINF:0,bein Sport 7 SD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9531
+
+#EXTINF:0,bein Sport 7 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9532
+
+#EXTINF:0,beINSports 7 FHD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8770
+
+#EXTINF:0,bein Sport 8 SD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9529
+
+#EXTINF:0,bein Sport 8 HD VIP ARB
+
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9525
+
+#EXTINF:0,bein Sport 10 HD VIP ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/9526
+
+#EXTINF:0,beINSports 10 FHD ARB
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/8767
+
+
+http://iptvensuisse.ddns.net:8080/8N8ko8PTiz/2NTtobKw7R/15040
